@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useForm, Controller } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
 import { Light as SyntaxHighlighter } from 'react-syntax-highlighter';
 import tailwind from 'react-syntax-highlighter/dist/esm/styles/hljs/tomorrow-night';
 
