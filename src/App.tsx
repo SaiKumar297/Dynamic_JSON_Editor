@@ -19,7 +19,7 @@ function App() {
   const [formData, setFormData] = useState(null);
 
   const {
-    control,
+    
     handleSubmit,
     register,
     formState: { errors },
